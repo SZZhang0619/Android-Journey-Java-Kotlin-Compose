@@ -4,10 +4,10 @@
 
 ## 目錄
 
-### 引言與環境設置
+### 前言與環境建置
 
-* [引言：探索Android開發的進化之路——從Java到Kotlin，再到Compose](Articles/01-introduction.md)
-* [如何為Android開發設定最佳環境：Java、Kotlin、和Compose的配置指南](Articles/02-setup-environment.md)
+* [前言：探索Android開發的進化之路——從Java到Kotlin，再到Compose](Articles/01-introduction.md)
+* [如何為Android開發設定最佳環境：Java、Kotlin、和Compose的設定指南](Articles/02-setup-environment.md)
 
 ### Java 實戰：待辦事項管理應用
 
@@ -45,6 +45,6 @@
 * [Compose實戰（八）：應用狀態管理最佳實踐](Articles/28-compose-social-state-management.md)
 * [Compose實戰（九）：將社交媒體應用發布到Google Play Store](Articles/29-compose-social-play-store-release.md)
 
-### 總結
+### 後記
 
-* [總結與比較：Java、Kotlin與Compose在Android開發中的優劣勢分析](Articles/30-comparison-conclusion.md)
+* [後記：總結與比較Java、Kotlin與Compose在Android開發中的優劣勢](Articles/30-comparison-conclusion.md)
